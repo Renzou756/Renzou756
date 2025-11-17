@@ -7,12 +7,12 @@
 </p>
 
 <p align="center" style="font-family: 'Segoe UI', sans-serif;">
-  <b>Research Intern at morLAB</b>
+  <b>Project Lead at UTMIST</b>
 </p>
 
 <p align="center" style="margin: 20px 0;">
-  <a href="https://morlab.mie.utoronto.ca/">
-    <img src="https://morlab.mie.utoronto.ca/media/morlab_logo.png" alt="morLAB Logo" height="30">
+  <a href="https://www.utmist.ca/">
+    <img src="https://www.utmist.ca/_next/static/media/utmist-logo-large.f1a7b56c.svg" alt="UTMIST Logo" height="30">
   </a>
 </p>
 
