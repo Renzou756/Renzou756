@@ -12,7 +12,7 @@
 
 <p align="center" style="margin: 40px 0;">
   <a href="https://www.utmist.ca/">
-    <img src="https://www.utmist.ca/_next/static/media/utmist-logo-large.f1a7b56c.svg" alt="UTMIST Logo" height="70">
+    <img src="https://www.utmist.ca/_next/static/media/utmist-logo-large.f1a7b56c.svg" alt="UTMIST Logo" height="80">
   </a>
 </p>
 
