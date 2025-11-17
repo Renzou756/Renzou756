@@ -10,9 +10,9 @@
   <b>Project Lead at UTMIST</b>
 </p>
 
-<p align="center" style="margin: 20px 0;">
+<p align="center" style="margin: 40px 0;">
   <a href="https://www.utmist.ca/">
-    <img src="https://www.utmist.ca/_next/static/media/utmist-logo-large.f1a7b56c.svg" alt="UTMIST Logo" height="30">
+    <img src="https://www.utmist.ca/_next/static/media/utmist-logo-large.f1a7b56c.svg" alt="UTMIST Logo" height="50">
   </a>
 </p>
 
