@@ -45,6 +45,9 @@
   <img src="https://img.shields.io/badge/Seaborn-5B8FA3?logo=seaborn&logoColor=white" alt="Seaborn" height="35">
   <img src="https://img.shields.io/badge/AMPL-FF6600" alt="AMPL" height="35">
   <img src="https://img.shields.io/badge/Gurobi-EE3524" alt="Gurobi" height="35">
+  <img src="https://img.shields.io/badge/XGBoost-017CEE" alt="XGBoost" height="35">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" height="35">
+  <img src="https://img.shields.io/badge/SHAP-FF6B6B" alt="SHAP" height="35">
 </p>
 
 ---
@@ -53,11 +56,24 @@
 
 <div align="left">
   <h4>
-    Supply Chain Optimization | AMPL, Python
+    Credit Risk Prediction with Explainable AI | Python, XGBoost, SHAP, FastAPI
   </h4>
   <blockquote>
-    Developed a mathematical model (LP) using AMPL to maximize company profits.
-    Achieved an objective function value of 11,789,734 dollars while using less than 50% of the budget.
+    Engineered binary classification pipeline on 150K+ records achieving 73.9% AUC for credit risk assessment.
+    Deployed FastAPI endpoint with per-prediction SHAP explanations and interactive dashboard for model interpretability.
+  </blockquote>
+  <a href="https://github.com/Renzou756/Credit-Risk-Prediction">
+      <img src="https://img.shields.io/badge/View_Project-2E86C1?style=for-the-badge" alt="View Project" height="28" style="vertical-align:middle">
+  </a>
+</div>
+
+<div align="left">
+  <h4>
+    Supply Chain Optimization | AMPL, Gurobi, Python, SQL
+  </h4>
+  <blockquote>
+    Formulated Linear Programming model to optimize production, achieving $11.8M profit using less than 50% of budget.
+    Performed sensitivity analysis by examining slack variables and constraints.
   </blockquote>
   <a href="https://github.com/Renzou756/MIE262-Project/">
       <img src="https://img.shields.io/badge/View_Project-2E86C1?style=for-the-badge" alt="View Project" height="28" style="vertical-align:middle">
@@ -66,17 +82,32 @@
 
 <div align="left">
   <h4>
-    Deep Learning X-ray Pneumonia detection | Python, Pytorch
+    Deepfake Detection Research Study | Python, R
   </h4>
   <blockquote>
-    Developed a CNN + ANN model to classify chest X-rays into Bacterial-Pneumonia, Viral-Pneumonia, or No Pneumonia.
+    Studied human detection using two-factor ANOVA and experimental design for statistical significance testing.
+    Developed custom GUI application to administer tests and minimize bias, collecting data from 20+ participants.
   </blockquote>
-    <a href="https://github.com/edwynzhou/aps360_project_team_77">
+  <a href="https://github.com/neckhert/MIE237-Project">
       <img src="https://img.shields.io/badge/View_Project-2E86C1?style=for-the-badge" alt="View Project" height="28" style="vertical-align:middle">
-    </a>
+  </a>
+</div>
+
+<div align="left">
+  <h4>
+    Deep Learning X-ray Pneumonia Detection | Python, PyTorch
+  </h4>
+  <blockquote>
+    Constructed and trained CNN model on 5,000 chest X-rays for medical image classification.
+    Used dropout regularization and fine-tuned hyperparameters, achieving 77.98% training and 76.83% validation accuracy.
+  </blockquote>
+  <a href="https://github.com/edwynzhou/aps360_project_team_77">
+      <img src="https://img.shields.io/badge/View_Project-2E86C1?style=for-the-badge" alt="View Project" height="28" style="vertical-align:middle">
+  </a>
 </div>
 
 ---
+
 ### Contact Me
 
 <p align="center">
