@@ -7,7 +7,7 @@
 </p>
 
 <p align="center" style="font-family: 'Segoe UI', sans-serif;">
-  <b>Project Lead — Machine Learning & Risk Analytics</b>
+  <b>Project Lead — Machine Learning & Data analytics</b>
 </p>
 
 <p align="center" style="margin: 40px 0;">
@@ -69,6 +69,19 @@
 
 <div align="left">
   <h4>
+    Insurance Cash Flow & Risk Forecasting Engine | Python, Monte Carlo, GLMs
+  </h4>
+  <blockquote>
+    Developed an end-to-end stochastic risk engine simulating cash flows for 20,000 insurance policies over a 10-year horizon.
+    Modeled claim frequency with Poisson GLMs and severity with Gamma distributions, computing tail-risk metrics (VaR, TVaR) and stress scenarios.
+  </blockquote>
+  <a href="https://github.com/Renzou756">
+      <img src="https://img.shields.io/badge/View_Project-2E86C1?style=for-the-badge" alt="View Project" height="28" style="vertical-align:middle">
+  </a>
+</div>
+
+<div align="left">
+  <h4>
     Supply Chain Optimization | AMPL, Gurobi, Python, SQL
   </h4>
   <blockquote>
@@ -121,4 +134,3 @@
     <img src="https://img.shields.io/badge/GitHub-Renzou756-2E86C1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40">
   </a>
 </p>
-
