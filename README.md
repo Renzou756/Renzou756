@@ -75,7 +75,7 @@
     Developed an end-to-end stochastic risk engine simulating cash flows for 20,000 insurance policies over a 10-year horizon.
     Modeled claim frequency with Poisson GLMs and severity with Gamma distributions, computing tail-risk metrics (VaR, TVaR) and stress scenarios.
   </blockquote>
-  <a href="[https://github.com/Renzou756](https://github.com/Renzou756/insurance_risk_engine)">
+  <a href="https://github.com/Renzou756/insurance_risk_engine">
       <img src="https://img.shields.io/badge/View_Project-2E86C1?style=for-the-badge" alt="View Project" height="28" style="vertical-align:middle">
   </a>
 </div>
