@@ -3,11 +3,11 @@
 </p>
 
 <p align="center" style="font-family: 'Segoe UI', sans-serif; margin-top: -10px;">
-  <b>Industrial Engineering at University of Toronto</b>
+  <b>Industrial Engineering @ University of Toronto</b>
 </p>
 
 <p align="center" style="font-family: 'Segoe UI', sans-serif;">
-  <b>Project Lead at UTMIST</b>
+  <b>Project Lead — Machine Learning & Risk Analytics</b>
 </p>
 
 <p align="center" style="margin: 40px 0;">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center" style="font-family: 'Segoe UI', sans-serif;">
-  Passionate about Machine Learning, Data Science, Finance, and Manufacturing.
+  Focused on applied Machine Learning, quantitative risk modeling, data-driven decision making, and optimization.
 </p>
 
 ---
@@ -59,8 +59,8 @@
     Credit Risk Prediction with Explainable AI | Python, XGBoost, SHAP, FastAPI
   </h4>
   <blockquote>
-    Engineered binary classification pipeline on 150K+ records achieving 73.9% AUC for credit risk assessment.
-    Deployed FastAPI endpoint with per-prediction SHAP explanations and interactive dashboard for model interpretability.
+    Built and evaluated credit risk models on 150K+ loan records to identify default risk using transactional and loan-level features.
+    Deployed FastAPI endpoint with per-prediction SHAP explanations and an interactive dashboard to support transparent, risk-aware decision making.
   </blockquote>
   <a href="https://github.com/Renzou756/Credit-Risk-Prediction">
       <img src="https://img.shields.io/badge/View_Project-2E86C1?style=for-the-badge" alt="View Project" height="28" style="vertical-align:middle">
@@ -72,8 +72,8 @@
     Supply Chain Optimization | AMPL, Gurobi, Python, SQL
   </h4>
   <blockquote>
-    Formulated Linear Programming model to optimize production, achieving $11.8M profit using less than 50% of budget.
-    Performed sensitivity analysis by examining slack variables and constraints.
+    Formulated and solved a mixed-integer optimization model for production and inventory planning, maximizing profit under capacity and budget constraints.
+    Performed sensitivity analysis on constraints and shadow prices to inform resource allocation and investment decisions.
   </blockquote>
   <a href="https://github.com/Renzou756/MIE262-Project/">
       <img src="https://img.shields.io/badge/View_Project-2E86C1?style=for-the-badge" alt="View Project" height="28" style="vertical-align:middle">
@@ -85,8 +85,8 @@
     Deepfake Detection Research Study | Python, R
   </h4>
   <blockquote>
-    Studied human detection using two-factor ANOVA and experimental design for statistical significance testing.
-    Developed custom GUI application to administer tests and minimize bias, collecting data from 20+ participants.
+    Designed and analyzed a human-in-the-loop experiment to evaluate deepfake detection using two-factor ANOVA and statistical hypothesis testing.
+    Built a custom GUI to administer experiments and reduce bias, collecting and analyzing responses from 20+ participants.
   </blockquote>
   <a href="https://github.com/neckhert/MIE237-Project">
       <img src="https://img.shields.io/badge/View_Project-2E86C1?style=for-the-badge" alt="View Project" height="28" style="vertical-align:middle">
@@ -98,8 +98,8 @@
     Deep Learning X-ray Pneumonia Detection | Python, PyTorch
   </h4>
   <blockquote>
-    Constructed and trained CNN model on 5,000 chest X-rays for medical image classification.
-    Used dropout regularization and fine-tuned hyperparameters, achieving 77.98% training and 76.83% validation accuracy.
+    Developed and trained a CNN for multi-class pneumonia detection on 5,000 chest X-ray images.
+    Applied data augmentation, dropout regularization, and hyperparameter tuning, achieving 77.98% training and 76.83% validation accuracy.
   </blockquote>
   <a href="https://github.com/edwynzhou/aps360_project_team_77">
       <img src="https://img.shields.io/badge/View_Project-2E86C1?style=for-the-badge" alt="View Project" height="28" style="vertical-align:middle">
@@ -121,3 +121,4 @@
     <img src="https://img.shields.io/badge/GitHub-Renzou756-2E86C1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40">
   </a>
 </p>
+
